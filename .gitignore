@@ -1,0 +1,21 @@
+# backups and archives
+*.bak
+*.rar
+*.zip
+*.7z
+_to_delete/
+backup_*/
+
+# build output
+build/
+*.bin
+*.elf
+*.exe
+.pio/
+
+# editors and OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
